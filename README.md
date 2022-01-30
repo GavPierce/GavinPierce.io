@@ -1,6 +1,6 @@
 # GavinPierce.io
 
-My Personal Website Portfolip
+My Personal Website Portfolio
 
 # Tech and Tools used in this site
 
